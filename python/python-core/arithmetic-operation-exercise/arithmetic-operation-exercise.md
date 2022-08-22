@@ -1,5 +1,5 @@
 ---
-author: Stefan-Stojanovic
+author: Antwon Grace
 
 tags:
   - coding
@@ -15,7 +15,7 @@ setupCode:
     # * or /
 
     # Type your code here:
-
+37
 ---
 
 # Multiplication & Division
@@ -45,9 +45,10 @@ If you’re stuck, you can always read this footnote[1] or review the comments s
 > 🤓 Happy learning! Open the playground and start coding!
 
 ---
-
+24+13=37
 ## Footnotes
 
 [1: Hints]
 
 Use two variables to hold your numbers. You can calculate and `print` the result on the same line.
+37
